@@ -13,7 +13,7 @@
 - Microsoft Fabric
 
 # 📁 Portfolio Projects
-Visit [My Data Analytics Portfolio](https://github.com/tusdid-tohfa/data-analytics-portfolio)
+Visit [My Data Analytics Portfolio](https://github.com/tusdidsabur/data-analytics-portfolio)
 
 # 🌐 Connect with Me
 [LinkedIn](https://linkedin.com/in/tusdid) | [Email](mailto:tusdid.analyst@gmail.com)
