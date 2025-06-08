@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Tusdid Sabur Tohfa
 
-<!--
-**TusdidSabur/TusdidSabur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✅ Microsoft Certified: Power BI Data Analyst (PL-300)  
+✅ Microsoft Excel Expert | PMP® | PgMP®  
+📊 Data Analyst with 4+ years of experience in BI dashboards, KPIs, SQL, and reporting automation  
+📍 Based in Cyberjaya, Malaysia  
 
-Here are some ideas to get you started:
+# 🔧 Tools & Skills
+- Power BI, Excel (Advanced), SQL
+- DAX, Power Query, ETL Concepts
+- Python (basic), Tableau (basic)
+- Primavera P6, Microsoft Project
+- Microsoft Fabric
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📁 Portfolio Projects
+Visit [My Data Analytics Portfolio](https://github.com/tusdid-tohfa/data-analytics-portfolio)
+
+# 🌐 Connect with Me
+[LinkedIn](https://linkedin.com/in/tusdid) | [Email](mailto:tusdid.analyst@gmail.com)
